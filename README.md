@@ -1,6 +1,5 @@
 # Laugh at out
-Coursera Test Repository
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -28,7 +27,7 @@ Coursera Test Repository
             <h2>
                 videos
             </h2>
-            <marquee behavior="up" direction="">"Here are some videos" </marquee>
+<!--             <marquee behavior="up" direction="">"Here are some videos" </marquee> -->
 
             <video src="../SnapTube Video/52 GAJ KA DAMAN _ PRANJAL DAHIYA _ AMAN JAJI _ RENUKA PANWAR _ MUKESH JAJI _ SAHIL SANDHU(1080P_HD).mp4" width="33%" controls></video>
 
@@ -57,7 +56,7 @@ Coursera Test Repository
         </section>
         <section>
             <h2> our founder</h2>
-            <img src="../photos/prashant.JPG" alt="this is prashnat sharma">
+            <img src="../photos/prashant.JPG" alt="this is prashant sharma">
             <h2>PRASHANT SHARMA</h2>
             <a href="https://www.youtube.com/channel/UCgfuNNp4AMlKioLqGlUOwDA" target="blank" >YouTube </a> &nbsp; &nbsp; | &nbsp; &nbsp; 
             <a href="https://www.instagram.com/sharmaprashant21/" target="_blank" rel="noopener noreferrer"> Instagram</a> &nbsp; &nbsp;| &nbsp; &nbsp; 
