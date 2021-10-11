@@ -11,6 +11,7 @@
 <body>
     <header>
         <h1>Laugh At Out</h1>
+        <img src="prashant.JPG" width="150px">
 
     </header>
     <nav>
@@ -56,7 +57,7 @@
         </section>
         <section>
             <h2> our founder</h2>
-            <img src="../photos/prashant.JPG" alt="this is prashant sharma">
+            <img src="prashant.JPG" alt="this is prashant sharma">
             <h2>PRASHANT SHARMA</h2>
             <a href="https://www.youtube.com/channel/UCgfuNNp4AMlKioLqGlUOwDA" target="blank" >YouTube </a> &nbsp; &nbsp; | &nbsp; &nbsp; 
             <a href="https://www.instagram.com/sharmaprashant21/" target="_blank" rel="noopener noreferrer"> Instagram</a> &nbsp; &nbsp;| &nbsp; &nbsp; 
